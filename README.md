@@ -1,0 +1,4 @@
+# Activity 2.1
+
+During are discussion we discuss many things regarding to the role of Information manager. We thing that          role is responsible for information capability management of the information system capability system. The role is is supported by information architect role and performance . The information manager can take support of information architect to support information capability management responsibilities and activities. It also manage the role of enterprise architecture team and has interconnections and interdependence with all the team members ad can excess to look at what the team member do.With the knowledge of how everyone fits in and the setting of expectations between everyone, the team will be a team and the enterprise manager role will be able to best utilize the talent of the individuals.
+
